@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "CocaCola",
+      "descripcion": "refrescante"
+    },
+    {
+      "id": 2,
+      "name": "Pepsi",
+      "descripcion": "La mejor"
+    },
+    {
+      "id": 3,
+      "name": "galletas dulces",
+      "descripcion": "galletas dulces marca pepitos"
+    },
+    {
+      "id": 6,
+      "name": "caramelos",
+      "descripcion": "caramelos blandos"
+    }
+  ]
+}

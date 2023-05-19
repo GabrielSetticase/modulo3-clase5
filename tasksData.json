@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "CocaCola",
+      "descripcion": "refrescante"
+    },
+    {
+      "id": 2,
+      "name": "Pepsi",
+      "descripcion": "La mejor"
+    },
+    {
+      "id": 3,
+      "name": "galletas dulces",
+      "description": "alletas de agua",
+      "descripcion": "galletas dulces marca oreo"
+    }
+  ]
+}
